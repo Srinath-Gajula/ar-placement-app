@@ -17,9 +17,6 @@ This is a minimal ARCore-based Android app that allows users to:
 1. Clone or unzip the project:
 git clone https://github.com/Srinath-Gajula/ar-placement-app.git
 
-pgsql
-Copy
-Edit
 2. Open in Android Studio.
 3. Build the project and connect a physical ARCore-compatible Android device.
 4. Run the app on the device.
